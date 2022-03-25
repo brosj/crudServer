@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  },
+  "scripts": {
+    "serve": "yarn tsc && node src/crudServer.js"
+  }
+}
